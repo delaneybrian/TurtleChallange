@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TurtleChallange.Definitions\TurtleChallange.Definitions.csproj" />
+    <ProjectReference Include="..\TurtleChallange.Domain\TurtleChallange.Domain.csproj" />
+    <ProjectReference Include="..\TurtleChallange.Interfaces\TurtleChallange.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

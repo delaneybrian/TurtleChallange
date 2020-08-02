@@ -1,0 +1,12 @@
+﻿{
+  "Size": 5,
+  "MineCount": 3,
+  "StartPosition": {
+    "XCoordinate": 1,
+    "YCoordinate": 1
+  },
+  "EndPosition": {
+    "XCoordinate": 4,
+    "YCoordinate": 4
+  }
+}
