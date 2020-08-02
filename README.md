@@ -2,6 +2,8 @@
  
 ## How To Use game-settings.json
  
+Location: _TurtleChallange.Host/Data/game-settings.json_
+
 game-settings.json is a json file that contains the setup configuration for the game.
  
 Set the Size of the board using **Size**. For example a Size set to 5 will result in 25 board positions i.e. 5 * 5
@@ -14,6 +16,8 @@ The coordinates provided must be valid as in they cannot be negative or cannot e
  
 ## How To Use moves.json
  
+Location: _TurtleChallange.Host/Data/moves.json_
+
 moves.json is a json file that contains the moves that will be performed by the turtle during the game. 
  
 Moves are provided in an array of values as per the provided example _moves.json_ file.

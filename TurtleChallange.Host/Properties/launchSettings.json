@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TurtleChallange.Host": {
+      "commandName": "Project",
+      "commandLineArgs": "\"hello\", \"World\""
+    }
+  }
+}

@@ -1,6 +1,5 @@
 ﻿using Autofac;
-using Newtonsoft.Json;
-using TurtleChallange.Definitions;
+using System.Linq;
 using TurtleChallange.Host.IoC;
 using TurtleChallange.Interfaces;
 
